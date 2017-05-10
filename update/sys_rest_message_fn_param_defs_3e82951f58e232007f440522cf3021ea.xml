@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn_param_defs">
+    <sys_rest_message_fn_param_defs action="INSERT_OR_UPDATE">
+        <name>channel</name>
+        <order>100</order>
+        <rest_message_function display_value="Lab 5.0 POST">1a521d1f58e232007f440522cf3021cd</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_param_defs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-10 21:02:42</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>3e82951f58e232007f440522cf3021ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>channel</sys_name>
+        <sys_package display_value="K17 Slack" source="x_snc_k17_slack">6775c1d758e232007f440522cf3021e6</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="K17 Slack">6775c1d758e232007f440522cf3021e6</sys_scope>
+        <sys_update_name>sys_rest_message_fn_param_defs_3e82951f58e232007f440522cf3021ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-10 21:02:42</sys_updated_on>
+        <value>${channel}</value>
+    </sys_rest_message_fn_param_defs>
+</record_update>
